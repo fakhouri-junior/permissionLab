@@ -1,0 +1,2 @@
+C:\androidMARYLAND\labs\TheActivityClass\PermissionsLab\app\build\intermediates\classes\debug
+C:\androidMARYLAND\labs\TheActivityClass\PermissionsLab\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-c8e09c6ae6d83b2709106cc4e557d48181a088b3.jar
